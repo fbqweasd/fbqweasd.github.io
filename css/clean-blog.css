@@ -4,8 +4,14 @@
   padding: 100px 0 50px;
   color: #FFFFFF;
 }
+
+@font-face { font-family: 'NanumBarunGothic';
+src: url('/fonts/NanumBarunGothic.eot');
+src: url('/fonts/NanumBarunGothic.eot') format('embedded-opentype'),
+url('/fonts/NanumBarunGothic.woff') format('woff');}
+
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'NanumBarunGothic', 'Lora', 'Times New Roman', serif;
   font-size: 20px;
   color: #404040;
 }
