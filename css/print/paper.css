@@ -10,6 +10,12 @@
    background. This prevents elements from extending
    beyond the edge of the printed page, and prevents
    unnecessary background images from printing */
+
+@font-face { font-family: 'NanumBarunGothic';
+src: url('/fonts/NanumBarunGothic.eot');
+src: url('/fonts/NanumBarunGothic.eot') format('embedded-opentype'),
+url('/fonts/NanumBarunGothic.woff') format('woff');}
+
 body {
 	background: #fff;
 	font-size: 13pt;
