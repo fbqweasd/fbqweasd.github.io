@@ -5,8 +5,14 @@
  */
 
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
+
+@font-face { font-family: 'NanumBarunGothic';
+src: url('/fonts/NanumBarunGothic.eot');
+src: url('/fonts/NanumBarunGothic.eot') format('embedded-opentype'),
+url('/fonts/NanumBarunGothic.woff') format('woff');}
+ 
 html {
-  font-family: sans-serif;
+  font-family: 'NanumBarunGothic', sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
