@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Aboute"
-description: "Why use Project Pages?"
+description: "유경찬 블로그"
 header-img: "img/home-bg.jpg"
 ---
 
