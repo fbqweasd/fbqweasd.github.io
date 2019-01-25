@@ -10,13 +10,13 @@ url: "https://fbqweasd.github.io"
 baseurl: "/"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: /img/logos/Project-Pages-New-Logo-Inverted.png
 
 # Tertiary Parameters
 github_username:  fbqweasd
 project_repository: project-pages
-disqus_shortname: project-pages
-g-analytics: UA-75881392-1
+disqus_shortname: disqus_gXKon0o50x
+g-analytics: UA-133229391-1
 altmetric: true
 
 # Build settings
