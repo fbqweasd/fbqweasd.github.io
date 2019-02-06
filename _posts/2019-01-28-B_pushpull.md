@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 전기전자 공부
+title: B급 증폭기
 author:     UKC
 tags: 		트랜지스터 증폭회로 B급증폭기
 subtitle:  	B급 증폭기 만들기 시도 (feat. A급 증폭기)
