@@ -43,4 +43,4 @@ header-img: "img/home-bg.jpg"
 
 ## 비젼
 
-<embed src="/_posts/2019-02-06-mission/" height="500px" width="100%">
+<embed src="/목표/2019/02/06/mission/" height="500px" width="100%">
