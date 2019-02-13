@@ -40,3 +40,7 @@ header-img: "img/home-bg.jpg"
 * __DataBase__
 	* mysql
 	* mariaDB
+
+## 비젼
+
+<embed src="/_posts/2019-02-06-mission/" height="500px" width="100%">
