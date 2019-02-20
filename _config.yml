@@ -1,9 +1,7 @@
 # Site settings
 title: UKC
-description: "Hello, World"
+description: "여러가지 공부를 한 것이나 저의 생각을 막 적은 사이트 입니다."
 url: "https://fbqweasd.github.io"
-encoding: UTF-8
-
 
 # Secondary Parameters
 baseurl: "/"
