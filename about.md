@@ -21,6 +21,7 @@ header-img: "img/home-bg.jpg"
 
 * __회로 설계__
 	* Kicad
+	* Orcad
 
 
 ## 사용해본 MCU
